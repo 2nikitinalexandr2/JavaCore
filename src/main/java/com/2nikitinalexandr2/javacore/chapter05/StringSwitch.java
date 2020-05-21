@@ -17,4 +17,4 @@ public class StringSwitch {
                 System.out.println("не совпало");
         }
     }
-}WS
+}
