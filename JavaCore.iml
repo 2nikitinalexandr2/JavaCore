@@ -8,6 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/2nikitinalexandr2/javacore/chapter03" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/2nikitinalexandr2/javacore/chapter04" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/2nikitinalexandr2/javacore/chapter05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/2nikitinalexandr2/javacore/chapter06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/2nikitinalexandr2/javacore/chapter07" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
