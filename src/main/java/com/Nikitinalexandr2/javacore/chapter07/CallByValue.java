@@ -6,7 +6,7 @@ class Testb {
         j /= 2;
     }
 }
-public class CallByValue {
+class CallByValue {
     public static void main(String[] args) {
         Testb ob = new Testb();
 

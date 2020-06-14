@@ -12,7 +12,7 @@ class Testo{
         return temp;
     }
 }
-public class RetOb {
+class RetOb {
     public static void main(String[] args) {
         Testo ob1 = new Testo(2);
         Testo ob2;

@@ -15,7 +15,7 @@ class Testr {
         o.b /=2;
     }
 }
-public class PassObjRe {
+class PassObjRe {
     public static void main(String[] args) {
         Testr ob = new Testr(15, 20);
         System.out.println("ob.a и ob.b до вызова: " + ob.a + " " + ob.b);
