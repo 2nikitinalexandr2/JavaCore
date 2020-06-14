@@ -1,16 +1,18 @@
+package main.java.com.Nikitinalexandr2.javacore.chapter06;
+
 /* Программа, использующая класс Box
 Присвоить исходному файлу имя BoxDemo.java
  */
-/*class Box {
+class Box {
     double width;
     double height;
     double depth;
 }
-/*
- */
+
+
 // В этом классе объявляется объект типа Box
 
-/*
+
 public class BoxDemo {
     public static void main(String[] args) {
         Box mybox = new Box();
@@ -26,4 +28,3 @@ public class BoxDemo {
         System.out.println("Объем равен " + vol);
     }
 }
-*/

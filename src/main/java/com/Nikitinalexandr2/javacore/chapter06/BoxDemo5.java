@@ -1,5 +1,7 @@
+package main.java.com.Nikitinalexandr2.javacore.chapter06;
 // В этой программе применяется метод с параметрами
-/*class Box {
+class Box5 {
+
     double width;
     double height;
     double depth;
@@ -15,11 +17,11 @@
         depth = d;
     }
 }
- /*
+
 public class BoxDemo5 {
     public static void main(String[] args) {
-        Box mybox1 = new Box();
-        Box mybox2 = new Box();
+        Box5 mybox1 = new Box5();
+        Box5 mybox2 = new Box5();
         double vol;
 
         // инициализировать каждый экземпляр класса Box
@@ -35,4 +37,3 @@ public class BoxDemo5 {
         System.out.println("Объем равен " + vol);
     }
 }
-*/

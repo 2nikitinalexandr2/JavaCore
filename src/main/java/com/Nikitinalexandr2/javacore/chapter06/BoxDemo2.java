@@ -1,15 +1,17 @@
+package main.java.com.Nikitinalexandr2.javacore.chapter06;
+
 // В этой программе объявляются два объекта класса Box
-/*class Box {
+class Box2 {
     double width;
     double height;
     double depth;
 }
-*/
-/*
+
+
 public class BoxDemo2 {
     public static void main(String[] args) {
-        Box mybox1 = new Box();
-        Box mybox2 = new Box();
+        Box2 mybox1 = new Box2();
+        Box2 mybox2 = new Box2();
         double vol;
 //        присвоить значения переменным экземпляра mybox1
         mybox1.width = 10;
@@ -18,7 +20,7 @@ public class BoxDemo2 {
 
 /*      присвоить другие значения переменным
         экземпляра mybox2  */
-/*
+
         mybox2.width = 3;
         mybox2.height = 6;
         mybox2.depth = 9;
@@ -30,4 +32,3 @@ public class BoxDemo2 {
         System.out.println("Объем равен " + vol);
     }
 }
-*/

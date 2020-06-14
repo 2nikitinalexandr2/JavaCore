@@ -1,17 +1,19 @@
+package main.java.com.Nikitinalexandr2.javacore.chapter06;
+
 /* В данном примере программы для инициализации
 размеров параллелепипеда в классе Box применяется
 параметризированный конструктор
  */
-class Box {
+class Box7 {
     double width;
     double height;
     double depth;
 
 //    Это конструктор класса Box
-    Box(double w, double h, double d) {
-        width = w;
-        height = h;
-        depth = d;
+    Box7(double w, double h, double d) {
+        this.width = w;
+        this.height = h;
+        this.depth = d;
     }
 
     // рассчитать и возвратить объем
@@ -23,8 +25,8 @@ public class BoxDemo7 {
     public static void main(String[] args) {
 //        объявить, выделить память и инициализировать
 //        объекты типа Box
-        Box mybox1 = new Box(10, 20, 15);
-        Box mybox2 = new Box(3, 6, 9);
+        Box7 mybox1 = new Box7(10, 20, 15);
+        Box7 mybox2 = new Box7(3, 6, 9);
 
         double vol;
 

@@ -1,6 +1,8 @@
+package main.java.com.Nikitinalexandr2.javacore.chapter06;
+
 // В этой программе применяется метод,
 // введенный в класс Box
-/*class Box {
+class Box3 {
     double width;
     double height;
     double depth;
@@ -11,12 +13,12 @@
     }
 
 }
-*/
-/*
+
+
 public class BoxDemo3 {
     public static void main(String[] args) {
-        Box mybox1 = new Box();
-        Box mybox2 = new Box();
+        Box3 mybox1 = new Box3();
+        Box3 mybox2 = new Box3();
 
 //        присвоить значение переменным экземпляра mybox1
         mybox1.width = 10;
@@ -24,7 +26,7 @@ public class BoxDemo3 {
         mybox1.depth = 15;
 /*присвоить другие значения переменным
     экземпляра mybox2 */
-/*
+
         mybox2.width = 3;
         mybox2.height = 6;
         mybox2.depth = 9;
@@ -35,4 +37,3 @@ public class BoxDemo3 {
         mybox2.volume();
     }
 }
-*/

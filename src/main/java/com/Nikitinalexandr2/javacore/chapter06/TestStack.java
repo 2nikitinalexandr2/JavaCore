@@ -1,3 +1,5 @@
+package main.java.com.Nikitinalexandr2.javacore.chapter06;
+
 // В этом классе определяется целочисленный стек, где
 // можно хранить до 10 целочисленных значений
 class  Stack {

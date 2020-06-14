@@ -1,6 +1,7 @@
 /* В этой программе демонстрируется отличие
 модификаторов public и private
  */
+package main.java.com.Nikitinalexandr2.javacore.chapter07;
 class Test{
     int a;          // доступ, определяемый по умолчанию
     public int b;   // открытый доступ

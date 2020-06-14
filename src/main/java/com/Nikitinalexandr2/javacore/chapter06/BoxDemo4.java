@@ -1,5 +1,7 @@
+package main.java.com.Nikitinalexandr2.javacore.chapter06;
+
 // Теперь метод volume() возвращает объем параллелепипеда
-/*class Box{
+class Box4{
     double width;
     double height;
     double depth;
@@ -10,12 +12,12 @@
     }
 }
 
- */
-/*
+
+
 public class BoxDemo4 {
     public static void main(String[] args) {
-        Box mybox1 = new Box();
-        Box mybox2 = new Box();
+        Box4 mybox1 = new Box4();
+        Box4 mybox2 = new Box4();
         double vol;
 
 //        присвоить значения переменным экземпляра mybox1
@@ -25,7 +27,7 @@ public class BoxDemo4 {
 
         /* присвоить другие значения переменным
          экземпляра mybox2*/
-/*
+
         mybox2.width = 3;
         mybox2.height = 6;
         mybox2.depth = 9;
@@ -39,4 +41,3 @@ public class BoxDemo4 {
         System.out.println("Объем равен " + vol);
     }
 }
-*/
